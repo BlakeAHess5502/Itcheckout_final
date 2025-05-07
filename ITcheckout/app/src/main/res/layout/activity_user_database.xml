@@ -5,6 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/gold"
     tools:context=".userDatabase">
 
 
@@ -29,21 +30,27 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent">
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
+            android:background="@drawable/button_style"
+            android:textColor="@color/white"
             android:id="@+id/addUserButton"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="Add User" />
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
+            android:background="@drawable/button_style"
+            android:textColor="@color/white"
             android:id="@+id/editUserButton"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="Edit User" />
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
+            android:background="@drawable/button_style"
+            android:textColor="@color/white"
             android:id="@+id/deleteUserButton"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
