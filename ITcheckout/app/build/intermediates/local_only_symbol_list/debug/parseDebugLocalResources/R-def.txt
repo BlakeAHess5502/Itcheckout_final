@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color gold
+color white
+drawable button_style
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable text_border
+id addUserButton
+id buttonLayout
+id confirmPasswordEditText
+id deleteUserButton
+id editUserButton
+id emailEditText
+id loginButton
+id main
+id passwordEditText
+id signUpTitle
+id signupButton
+id submitButton
+id titleText
+id userListView
+id usernameEditText
+layout activity_admin_home_page
+layout activity_main
+layout activity_sign_up_page
+layout activity_user_database
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ITcheckout
+style Theme.ITcheckout
+xml backup_rules
+xml data_extraction_rules

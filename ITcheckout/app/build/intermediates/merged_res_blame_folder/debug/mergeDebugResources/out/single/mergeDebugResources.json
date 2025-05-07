@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\layout_activity_user_database.xml.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\layout\\activity_user_database.xml"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.itcheckout.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.itcheckout.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\drawable_button_style.xml.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\drawable\\button_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\layout_activity_admin_home_page.xml.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\layout\\activity_admin_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\layout_activity_sign_up_page.xml.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\layout\\activity_sign_up_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\drawable_text_border.xml.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\drawable\\text_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bah55\\.gradle\\daemon\\8.11.1\\com.example.itcheckout.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]
