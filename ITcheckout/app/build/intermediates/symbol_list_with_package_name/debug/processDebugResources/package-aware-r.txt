@@ -3213,6 +3213,7 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id button
 id buttonLayout
 id buttonPanel
 id cache_measures
@@ -3333,6 +3334,7 @@ id hide_ime_id
 id hideable
 id home
 id homeAsUp
+id homepage_checkout
 id honorRequest
 id horizontal
 id horizontal_only
@@ -3576,6 +3578,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3750,6 +3753,7 @@ layout activity_admin_home_page
 layout activity_main
 layout activity_sign_up_page
 layout activity_user_database
+layout activity_user_landing_page
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
